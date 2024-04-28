@@ -5,7 +5,7 @@ Cartella contenente il secondo Homework inerente al Corso di Linguaggi per il We
 HTML, CSS, PHP, MySQL
 
 # Studenti
-# Ettore Cantile, Leonardo Chiarparin
+Ettore Cantile, Leonardo Chiarparin
 
 # Facoltà
 Ingegneria dell'Informazione, Informatica e Statistica (sede di Latina)
